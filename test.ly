@@ -5,25 +5,9 @@
 
 \score {
   \relative c' {
-    e4
-    e4
-    f4
-    g4
-
-    g4
-    f4
-    e4
-    d4
-
-    c4
-    c4
-    d4
-    e4
-
-    e4.
-    d8
-    d4
-    r4
+    e4 e f g g f e d c c d e e4. d8 d2
+    e4 e f g g f e d c c d e d4. c8 c2
+    d4 d e c d e8 f e4 c d e8 f e4 d c d g,
     
   }
 
